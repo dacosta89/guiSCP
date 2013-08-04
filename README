@@ -1,0 +1,13 @@
+pyCrypto Library Link:
+
+http://www.voidspace.org.uk/python/modules.shtml#pycrypto
+
+Paramiko Library Installation:
+
+1.) Change into the paramiko directory
+
+2.) Run the Commands
+
+python setup.py build
+
+python setup.py install
